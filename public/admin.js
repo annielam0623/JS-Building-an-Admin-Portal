@@ -35,7 +35,7 @@ async function main() {
 
     li.append(quantityInput, saveButton)
     root.append(li)
-
+      
  }
 
  main();
